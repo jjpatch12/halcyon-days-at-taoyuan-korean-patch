@@ -1,4 +1,5 @@
 # Halcyon Days at Taoyuan 한국어화 패치
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/4c273b4a-9277-4783-b3cd-81b113a69e03" />
 
 `Halcyon Days at Taoyuan` 비공식 한국어화 패치입니다.
 
